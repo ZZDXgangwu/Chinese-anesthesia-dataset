@@ -12,6 +12,7 @@ If you want to view all the data, please visit [Chinese Anesthesia Dataset](http
 ## Data Availability
 
 The data that support the findings of this study are available on request from the corresponding author (gangwu@zzu.edu.cn), upon reasonable request.
+Our dataset is open to academic research but cannot be used for commercial purposes.
 
 ## License
 
