@@ -1,5 +1,5 @@
 # Chinese-anesthesia-dataset
-This is an anesthesia prediction dataset mainly used in Chinese. We provide Chinese and English versions of some data here. You can view some data here, or you can get all the data with the author's consent.
+This is an anesthesia prediction dataset mainly used in Chinese. We provide Chinese and English versions of some data. You can view some data here, or you can get all the data with the author's consent.
 
 Here we provide two txt files, which are the Chinese and English versions of our 100 data.
 record-chinese.txt is the Chinese data of anesthesia risk prediction.
