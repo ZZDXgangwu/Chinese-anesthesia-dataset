@@ -5,7 +5,7 @@ Here we provide two txt files, which are the Chinese and English versions of our
 record-chinese.txt is the Chinese data of anesthesia risk prediction.
 record-english.txt is the English data of anesthesia risk prediction.
 
-The English anesthesia data here are directly translated from the Chinese data we collected. The purpose is to facilitate understanding. The Chinese version is still the main language used.
+The English anesthesia data is translated from the Chinese data for the purpose of easier comprehension. The Chinese anesthesia data represent the original data we collected.
 
 You can obtain all the data from [Chinese Anesthesia Dataset](https://zenodo.org/records/13378270) with the permission of the corresponding author（please refer to the Data Availability part）
 
